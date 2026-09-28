@@ -5,6 +5,10 @@ A Python tool that analyses transaction CSVs to detect **money mule** accounts u
 ---
 
 ## Features
+<img width="638" height="331" alt="image" src="https://github.com/user-attachments/assets/637f285f-c18e-4d26-a13a-5c5be5794d4a" />
+<img width="638" height="293" alt="image" src="https://github.com/user-attachments/assets/fd598bf8-5ad9-4e62-9396-9f2ba8aaca35" />
+
+
 
 - **Fan-in / Fan-out detector** — flags accounts that receive funds from many unique senders within a configurable time window
 - **Rapid pass-through detector** — flags accounts that forward a high fraction of received funds back out within a short time window
